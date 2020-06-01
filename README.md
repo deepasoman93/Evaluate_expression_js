@@ -1,0 +1,2 @@
+# Evaluate_expression_js
+Create a webpage with a textbox and a button. Enter any mathematical expression on the textbox and click the button, the result of the expression will be shown in an alert window.  For example, enter 2+3-1 and click the button. It should show 4 in the alert window. You have to use ReactJS to create the webpage, and to do that you will have to learn Javascript. This question is to evaluate your ability to learn an unfamiliar framework with an unknown language.
